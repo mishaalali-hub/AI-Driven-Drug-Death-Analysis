@@ -343,13 +343,6 @@ This repository was developed strictly for:
 
 ---
 
-# Contributors
-
-- Muhammad Samir Khalid
-- Group Assignment Team Members
-
----
-
 # Future Improvements
 
 Potential future enhancements include:
